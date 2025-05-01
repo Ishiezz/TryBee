@@ -58,7 +58,7 @@ const ProductPage = () => {
       category: 'Jewelry',
       price: 599.99,
       rating: 4.5,
-      image: 'https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?ixlib=rb-4.0.3',
+      image: 'https://i.pinimg.com/736x/6a/ba/0d/6aba0dfb49a3c934010150488b7a9020.jpg',
       description: 'Elegant 18K gold ring with diamond setting',
     },
     {
@@ -67,7 +67,7 @@ const ProductPage = () => {
       category: 'Eyewear',
       price: 199.99,
       rating: 4.8,
-      image: 'https://images.unsplash.com/photo-1572635196237-14b3f281503f?ixlib=rb-4.0.3',
+      image: 'https://i.pinimg.com/736x/21/b5/52/21b552b048cc83f75d3ca59a92a6b353.jpg',
       description: 'Classic aviator sunglasses',
     },
     {
@@ -76,7 +76,7 @@ const ProductPage = () => {
       category: 'Shoes',
       price: 129.99,
       rating: 4.6,
-      image: 'https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3',
+      image: 'https://i.pinimg.com/736x/e4/b4/52/e4b452e517db6aa441e89a5e1784fcff.jpg',
       description: 'Comfortable and stylish sneakers',
     },
     {
@@ -85,7 +85,7 @@ const ProductPage = () => {
       category: 'Jewelry',
       price: 299.99,
       rating: 4.7,
-      image: 'https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?ixlib=rb-4.0.3',
+      image: 'https://i.pinimg.com/736x/cf/d5/73/cfd573a17e4ce209a5ee771830a49ca3.jpg',
       description: 'Elegant freshwater pearl necklace',
     },
     {
@@ -94,7 +94,7 @@ const ProductPage = () => {
       category: 'Shoes',
       price: 249.99,
       rating: 4.4,
-      image: 'https://images.unsplash.com/photo-1543163521-1bf539c55dd2?ixlib=rb-4.0.3',
+      image: 'https://i.pinimg.com/736x/71/43/b2/7143b2ccc4a102de2ef721548d9348c8.jpg',
       description: 'Stylish high heels for any occasion',
     },
     {
@@ -103,7 +103,7 @@ const ProductPage = () => {
       category: 'Eyewear',
       price: 89.99,
       rating: 4.3,
-      image: 'https://images.unsplash.com/photo-1574258495973-f010dfbb5371?ixlib=rb-4.0.3',
+      image: 'https://i.pinimg.com/736x/6e/27/3d/6e273d54c1d954c28af8c0489e1a323a.jpg',
       description: 'Comfortable reading glasses',
     },
   ];
