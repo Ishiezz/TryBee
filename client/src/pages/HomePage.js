@@ -33,17 +33,17 @@ const HomePage = () => {
   const categories = [
     {
       name: 'Jewelry',
-      image: 'https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80',
+      image: 'https://i.pinimg.com/736x/41/37/78/4137780ccd0ce60dec33a7af21b37142.jpg',
       path: '/jewelry',
     },
     {
       name: 'Eyewear',
-      image: 'https://images.unsplash.com/photo-1572635196237-14b3f281503f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80',
+      image: 'https://i.pinimg.com/736x/d1/6b/b5/d16bb5a450f0d7563c97ac26ccb119c2.jpg',
       path: '/eyewear',
     },
     {
       name: 'Shoes',
-      image: 'https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80',
+      image: 'https://i.pinimg.com/736x/2e/55/ac/2e55ac40ecc28e0a1e8adfdf5a705654.jpg',
       path: '/shoes',
     },
   ];
@@ -52,19 +52,19 @@ const HomePage = () => {
     {
       name: 'Diamond Necklace',
       price: '$299',
-      image: 'https://images.unsplash.com/photo-1611591437281-460bfbe1220a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80',
+      image: 'https://i.pinimg.com/736x/02/7b/28/027b288d313c6363c1ca14b8c6f96ee2.jpg',
       category: 'Jewelry',
     },
     {
       name: 'Designer Sunglasses',
       price: '$199',
-      image: 'https://images.unsplash.com/photo-1577803645773-f96470509666?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80',
+      image: 'https://i.pinimg.com/736x/6d/06/d1/6d06d1b0c8c947e92354b4b739fb414e.jpg',
       category: 'Eyewear',
     },
     {
       name: 'Leather Boots',
       price: '$249',
-      image: 'https://images.unsplash.com/photo-1543163521-1bf539c55dd2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80',
+      image: 'https://i.pinimg.com/736x/64/44/1e/64441ec97497777ce0354164620484d7.jpg',
       category: 'Shoes',
     },
   ];
@@ -222,7 +222,7 @@ const HomePage = () => {
                 >
                   <Box
                     component="img"
-                    src="https://images.unsplash.com/photo-1581044777550-4cfa60707c03?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1172&q=80"
+                    src="https://i.pinimg.com/736x/33/b1/eb/33b1eba12af9df6f71e1ba79ab583fcd.jpg"
                     alt="Stylish woman trying on clothes"
                     sx={{
                       width: '70%',
