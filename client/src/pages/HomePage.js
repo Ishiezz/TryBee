@@ -71,17 +71,17 @@ const HomePage = () => {
 
   const testimonials = [
     {
-      name: 'Sarah Johnson',
+      name: 'Dia Mehra',
       text: 'I love being able to try on jewelry before buying. It takes the stress out of online shopping!',
       rating: 5,
     },
     {
-      name: 'Michael Chen',
+      name: 'Ishan Shekhar',
       text: 'The try-before-you-buy feature is a game-changer. I finally found the perfect sunglasses!',
       rating: 5,
     },
     {
-      name: 'Emma Davis',
+      name: 'Akhil Raj Saurav',
       text: 'Such a convenient service. The shoes fit perfectly and the process was seamless.',
       rating: 4,
     },
@@ -143,7 +143,7 @@ const HomePage = () => {
                       WebkitTextFillColor: 'transparent',
                     }}
                   >
-                    Try before you buy
+                    Try before you buy!
                   </Typography>
                   <Typography
                     variant="h5"
@@ -154,7 +154,7 @@ const HomePage = () => {
                       fontSize: { xs: '1.1rem', md: '1.25rem' },
                     }}
                   >
-                    Experience the perfect fit and style before making a purchase. No commitment, no hassle.
+                    Experience the perfect fit and style before making a purchase. No commitment, no hassle. BEE the first to try.
                   </Typography>
                   <Box sx={{ display: 'flex', gap: 2 }}>
                     <Button
