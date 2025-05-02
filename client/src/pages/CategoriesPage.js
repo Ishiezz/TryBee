@@ -15,19 +15,19 @@ const categories = [
   {
     id: 1,
     name: 'Jewelry',
-    image: 'https://images.unsplash.com/photo-1605100804763-247f67b3557e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80',
+    image: 'https://i.pinimg.com/736x/34/e0/8b/34e08b2a782d329dd73b8fc3629bd27a.jpg',
     path: '/jewelry',
   },
   {
     id: 2,
     name: 'Eyewear',
-    image: 'https://images.unsplash.com/photo-1511499767150-a48a237f0083?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1480&q=80',
+    image: 'https://i.pinimg.com/736x/77/ac/e3/77ace3e48ac7255621a50bbf9a5d387c.jpg',
     path: '/eyewear',
   },
   {
     id: 3,
     name: 'Shoes',
-    image: 'https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80',
+    image: 'https://i.pinimg.com/736x/a3/8d/9e/a38d9e5fba55af7bc690b9e46b4290ba.jpg',
     path: '/shoes',
   },
 ];
