@@ -25,7 +25,7 @@
   font-size: 3.5rem;
   font-weight: bold;
   margin-bottom: 20px;
-  background: linear-gradient(45deg, #2196F3 30%, #21CBF3 90%);
+  background: linear-gradient(45deg, #5ca33d 30%, #94c07b 90%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -41,14 +41,14 @@
   padding: 12px 24px;
   font-size: 1.2rem;
   border-radius: 12px;
-  background: linear-gradient(45deg, #2196F3 30%, #21CBF3 90%);
+  background: linear-gradient(45deg, #98194a 30%, #b32462 90%);
   box-shadow: 0 4px 15px rgba(33, 150, 243, 0.3);
   transition: all 0.3s ease;
 }
 
 .hero-button:hover {
-  background: linear-gradient(45deg, #1976D2 30%, #1E88E5 90%);
-  box-shadow: 0 6px 20px rgba(33, 150, 243, 0.4);
+  background: linear-gradient(45deg, #7a0819 30%, #b61749 90%);
+  box-shadow: 0 6px 20px rgba(1, 1, 1, 0.4);
   transform: translateY(-2px);
 }
 
