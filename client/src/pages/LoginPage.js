@@ -100,10 +100,10 @@ const LoginPage = () => {
           }}
         >
           <Typography component="h1" variant="h4" align="center" gutterBottom>
-            Welcome Back
+          Hello Again, BEE-loved!!
           </Typography>
           <Typography variant="body1" color="text.secondary" align="center" sx={{ mb: 4 }}>
-            Sign in to your account to continue
+          Access your account to keep exploring.
           </Typography>
 
           {error && (
