@@ -46,17 +46,17 @@ const ContactUsPage = () => {
     {
       icon: <LocationOn />,
       title: 'Address',
-      content: '123 Fashion Street, New York, NY 10001',
+      content: '123,Mahaveer Nagar,Mumbai',
     },
     {
       icon: <Phone />,
       title: 'Phone',
-      content: '+1 (555) 123-4567',
+      content: '+91 656465578797',
     },
     {
       icon: <Email />,
       title: 'Email',
-      content: 'support@fashionstore.com',
+      content: 'support@TryBee.com',
     },
     {
       icon: <AccessTime />,
@@ -71,7 +71,9 @@ const ContactUsPage = () => {
         Contact Us
       </Typography>
       <Typography variant="subtitle1" align="center" color="text.secondary" sx={{ mb: 4 }}>
-        We'd love to hear from you! Send us a message and we'll respond as soon as possible.
+      We’d love to hear from you! Send us a message, and we’ll buzz right back to you as soon as we can.
+
+
       </Typography>
 
       <Grid container spacing={4}>
